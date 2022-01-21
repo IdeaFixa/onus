@@ -1,0 +1,12 @@
+[package]
+name = "onus"
+version = "0.0.0"
+authors = ["The Onus Project Developers"]
+edition = "2021"
+description = "Build tool for Scala"
+license = "MIT"
+homepage = "https://github.com/IdeaFixa/onus"
+repository = "https://github.com/IdeaFixa/onus"
+readme = "README.md"
+
+
