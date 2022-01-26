@@ -9,4 +9,6 @@ homepage = "https://github.com/IdeaFixa/onus"
 repository = "https://github.com/IdeaFixa/onus"
 readme = "README.md"
 
-
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde-xml-rs = "0.5"
