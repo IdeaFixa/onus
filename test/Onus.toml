@@ -1,0 +1,4 @@
+[dependencies]
+cats_effect = { organization = "org.typelevel", version = "1.6.0" }
+tofu = { organization = "tf.tofu", version = "0.1.0.4" }
+tofu_logging = { organization = "tf.tofu", version = "0.1.0.4" }
